@@ -8,8 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Chapter10" />
         <module name="Chapter11" />
+        <module name="Chapter5" />
+        <module name="Chapter6" />
+        <module name="Chapter8" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Chapter7" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

@@ -103,7 +103,7 @@ public class MycookiesForGet {
 
     }
 
-    @Test(enabled = false)
+    @Test(enabled = true)
     public void test3() throws IOException {
 
         String res;

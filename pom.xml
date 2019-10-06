@@ -19,7 +19,34 @@
         <module>Chapter5</module>
         <module>Chapter6</module>
         <module>Chapter8</module>
+        <module>Chapter12</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>rg.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.6</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
 
 </project>

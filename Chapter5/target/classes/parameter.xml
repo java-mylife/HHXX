@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="parameters">
+    <test name="param">
+
+        <classes>
+            <parameter name="name" value="zhangsan"/>
+            <parameter name="age" value="10"/>
+
+
+            <class name="com.baidu.course.testng.parmeter.DataproviderTest"/>
+        </classes>
+
+    </test>
+
+</suite>

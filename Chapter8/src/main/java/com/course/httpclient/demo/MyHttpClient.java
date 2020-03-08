@@ -1,31 +1,29 @@
 package com.course.httpclient.demo;
 
-import org.apache.commons.httpclient.HttpClient;
-import org.apache.commons.httpclient.HttpConnectionManager;
-import org.apache.commons.httpclient.HttpMethod;
-import org.apache.commons.httpclient.MultiThreadedHttpConnectionManager;
+import com.sun.deploy.net.HttpUtils;
+import org.apache.commons.httpclient.*;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.params.HttpConnectionManagerParams;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
+import org.apache.http.HttpException;
 import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.apache.http.util.EntityUtils;
-import org.testng.annotations.Test;
-
+import org.apache.log4j.Logger;
+import org.apache.commons.lang.StringUtils;
 import java.io.IOException;
 
-import static com.oracle.jrockit.jfr.DataType.UTF8;
 
 public class MyHttpClient {
     private final static String UTF8 = "UTF-8";
 
     private HttpClient client;
-    public static CloseableHttpClient httpClient;
+//    public static CloseableHttpClient httpClient;
     public static MyHttpClient instance = new MyHttpClient();
     public static Object res = null;
+    private final static Logger logger = Logger.getLogger(MyHttpClient.class);
+    private final static String OPERATER_NAME = "【http操作】";
+    private final static String token = "123";
+    private final static int SUCCESS = 200;
+
+
 
 
 
@@ -59,8 +57,60 @@ public class MyHttpClient {
         return res;
     }
 
-
-    public static void main(String[] args) throws IOException {
-        MyHttpClient.instance.get("http://wwww.baidu.com/");
+    public String get1(String url){
+        return instance.DoGet(url);
     }
+    private String DoGet(String url){
+        long begintime = System.currentTimeMillis();
+        String res = StringUtils.EMPTY;
+        try {
+            logger.info(OPERATER_NAME+"开始get通信，目标host:"+url);
+            HttpMethod httpMethod = new GetMethod(url);
+            httpMethod.addRequestHeader("token",token);
+            httpMethod.getParams().setContentCharset(UTF8);
+            httpMethod.setRequestHeader("Accept-Language","zh-cn,zh;q=0.5");
+            try{
+                client.executeMethod(httpMethod);
+            } catch (IOException e ){
+                logger.error(new StringBuffer("发送HTTP GET给\r\n").append(url).append("\r\nIO异常\r\n"), e);
+
+            }
+            if (httpMethod.getStatusCode() == SUCCESS) {
+                try {
+                    res = httpMethod.getResponseBodyAsString();
+                    logger.info("token=" + httpMethod.getRequestHeader("token").toString());
+//                    logger.info("refreshToken="+method.getRequestHeader("refreshToken").toString());
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }else {
+                logger.error("请求报错");
+                return null;
+            }
+
+            httpMethod.releaseConnection();
+
+            logger.info(OPERATER_NAME + "通讯完成，返回码：" + httpMethod.getStatusCode());
+            logger.info(OPERATER_NAME + "返回内容：" + httpMethod.getResponseBodyAsString());
+            logger.info(OPERATER_NAME + "结束..返回结果:" + res);
+        } catch (Exception e) {
+            logger.info(OPERATER_NAME, e);
+        }
+        long endTime = System.currentTimeMillis();
+        logger.info(OPERATER_NAME + "共计耗时:" + (endTime - begintime) + "ms");
+
+        return res;
+
+
+
+        }
+
+
+    public static void main(String[] args) {
+        MyHttpClient.instance.get1("http://wwww.baidu.com");
+    }
+
 }
+
+
+

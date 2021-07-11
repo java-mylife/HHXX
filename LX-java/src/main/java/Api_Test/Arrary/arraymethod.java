@@ -23,7 +23,7 @@ public class arraymethod {
     public static void main(String[] args) {
 
 
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<String> list = new ArrayList<String>();
         System.out.println(list);
         // 向集合中添加元素 add；
        boolean success =  list.add("柳岩");

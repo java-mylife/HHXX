@@ -8,7 +8,7 @@ public class Arrayfori {
     public static void main(String[] args) {
 
 
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<String> list = new ArrayList<String>();
 
         list.add("胡丽娜扎");
         list.add("迪丽热巴");

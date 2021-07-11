@@ -8,7 +8,7 @@ public class xiaotimu111 {
     public static void main(String[] args) {
 
 
-        ArrayList<student> list = new ArrayList<>();
+        ArrayList<student> list = new ArrayList<student>();
 
 
         student one = new student("洪七公",20);

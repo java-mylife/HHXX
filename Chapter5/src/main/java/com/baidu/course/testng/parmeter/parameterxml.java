@@ -10,5 +10,9 @@ public class parameterxml {
     public void paramTest1(String name,int age){
         System.out.println("name = " + name + ";  age = " + age);
     }
+
+//    public static void main(String[] args) {
+  //      System.out.println("aaa");
+    //}
 }
 

@@ -28,7 +28,7 @@ public class tm333 {
     public static void main(String[] args) {
 
 
-        ArrayList<Integer> biglist = new ArrayList<>();
+        ArrayList<Integer> biglist = new ArrayList<Integer>();
         Random r = new Random();
         for (int i = 0; i < 20; i++) {
             int num = r.nextInt(100) + 1;
@@ -50,7 +50,7 @@ public class tm333 {
     public static ArrayList<Integer> getsamlllist(ArrayList<Integer> biglist) {
 
         //创建小集合
-        ArrayList<Integer> samlllist = new ArrayList<>();
+        ArrayList<Integer> samlllist = new ArrayList<Integer>();
         for (int i = 0; i < biglist.size(); i++) {
             int num = biglist.get(i);
             if (num % 2 == 0) {

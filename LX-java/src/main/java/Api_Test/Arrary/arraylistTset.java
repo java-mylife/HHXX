@@ -22,7 +22,7 @@ public class arraylistTset {
     public static void main(String[] args) {
 
 
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<String> list = new ArrayList<String>();
         list.add("古力娜扎");
         System.out.println(list);
 

@@ -16,7 +16,7 @@ public class tm222 {
     public static void main(String[] args) {
 
 
-        ArrayList<String > list = new ArrayList<>();
+        ArrayList<String > list = new ArrayList<String>();
 
         list.add("张三丰");
         list.add("宋远桥");

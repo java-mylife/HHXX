@@ -28,7 +28,7 @@ public class Arraylistjibenleixing {
         // 错误写法！泛型只能是引用类型，不能是基本类型
         //  ArrayList<int> listB = new ArrayList<>();
 
-        ArrayList<Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<Integer>();
 
         list.add(100);
         list.add(200);

@@ -1,228 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fe87faad-14f4-4264-8595-61067a29bdfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/HttpUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/Lss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/LXjava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/ArraryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arraylistjibenleixing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraylistTset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraymethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrays/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrays/demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Myclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Static_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/persion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/staticdaimakuai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demon00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Assistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Usb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/fu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/fuzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/zi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/math/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/math/demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/random_test/random_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/random_test/random_test111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/random_test/random_test222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/random_test/random_test333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/Api_scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/Api_scanner111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/Api_scanner222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/niming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/shuzuuu/ShuZuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/shuzuuu/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/shuzuuu/XueShengTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/shuzuuu/xh_kkk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/xuhuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Iphone4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Iphone5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/NNbiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Test_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Test_javac1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/lianxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/maopao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/shuzu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/test_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/test_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/ExcepTest/ExcepTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/ExcepTest/Expectdemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Filedemo/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Filedemo/XmlDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/jiujiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/kggg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/maoppp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/log/Logdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/xuhuan_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/resources/koobe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/resources/koobe1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/NNbiao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/Test_javac1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/maopao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/NNMM/jiujiu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/NNMM/kggg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/NNMM/maoppp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/NNMM/nn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HHXX.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/Chapter10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HHXX.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/com/baidu/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/baidu/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/baidu/config/Testconfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/baidu/config/Testconfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/target/classes/com/baidu/config/Testconfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter12/target/classes/com/baidu/config/Testconfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/Chapter5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/DependTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/DependTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/Jichutest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/Jichutest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/YichangTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/YichangTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groups1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groups1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groups2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groups2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groups3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groups3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groupstest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/groups/groupstest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/ignoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/ignoreTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/multiThread/MultiThreadOnAnnotion.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/multiThread/MultiThreadOnAnnotion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/multiThread/MultiThreadOnXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/multiThread/MultiThreadOnXml.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/parmeter/DataproviderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/parmeter/DataproviderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/parmeter/parameterxml.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/parmeter/parameterxml.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/suite/LoninTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/suite/LoninTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/suite/payTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/suite/payTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/suite/suiteconfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/suite/suiteconfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/timeOutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/com/baidu/course/testng/timeOutTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/Chapter6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/cookies/MyCookiesForPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/cookies/MyCookiesForPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/cookies/MycookiesForGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/cookies/MycookiesForGet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/demo/MyHttpclient.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/demo/MyHttpclient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/demo/yyyy.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/target/classes/com/course/httpclient/demo/yyyy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/com/baidu/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/target/classes/com/baidu/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter11/target/classes/com/course/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter11/target/classes/com/course/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter11/target/classes/com/course/controller/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter11/target/classes/com/course/controller/demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter11/target/classes/com/course/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter11/target/classes/com/course/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/baidu/course/testng/parmeter/parameterxml.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/baidu/course/testng/parmeter/parameterxml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/parameter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/parameter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/parameter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/target/classes/parameter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListenerOld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListenerOld$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListenerOld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/ExtentTestNGIReporterListenerOld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/testdemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/tester/extent/demo/testdemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/ArraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/ArraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arraylistjibenleixing.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arraylistjibenleixing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraylistTset.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraylistTset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraymethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraymethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm222.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm222.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm333.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm333.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu111.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/math/demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/math/demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/ArraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/ArraryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/Arrayfori.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/Arrayfori.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/Arraylistjibenleixing.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/Arraylistjibenleixing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/arraylistTset.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/arraylistTset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/arraymethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/arraymethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/tm222.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/tm222.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/tm333.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/tm333.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/xiaotimu.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/xiaotimu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/xiaotimu111.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrary/xiaotimu111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrays/demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrays/demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrays/demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Arrays/demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/Myclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/Myclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/Static_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/Static_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/persion.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/persion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/staticdaimakuai.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/Static_test/staticdaimakuai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo05.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo06.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demo06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demon00.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/demon00.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/timu01.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/timu01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/timu02.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/String_test/timu02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/Assistant.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/Assistant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/Usb.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/Usb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo03$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo03$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/fu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/fu1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/fu1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/fuzi.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/fuzi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/zi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/zi1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/extend/zi1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/math/demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/math/demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/math/demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/math/demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test111.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test222.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test222.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test333.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/random_test/random_test333.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Api_scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Api_scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Api_scanner111.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Api_scanner111.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Api_scanner222.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Api_scanner222.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/niming.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/scanner_test/niming.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/ShuZuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/ShuZuTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/XueShengTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/XueShengTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/xh_kkk.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/Api_Test/shuzuuu/xh_kkk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LX-java/target/classes/xuhuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/LX-java/target/classes/xuhuan.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/Chapter6/target/" />
-    <ignored path="$PROJECT_DIR$/Chapter11/target/" />
-    <ignored path="$PROJECT_DIR$/LX-java/target/" />
-    <ignored path="$PROJECT_DIR$/Chapter10/target/" />
-    <ignored path="$PROJECT_DIR$/Chapter12/target/" />
-    <ignored path="$PROJECT_DIR$/Chapter8/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/Chapter5/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/cookies/MycookiesForGet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/HttpUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrays/demo01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrays/demo02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraylistTset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-404">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -234,33 +151,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/niming.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/Person.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/Lss.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/shuzuuu/xh_kkk.java" />
-        <option value="$PROJECT_DIR$/Chapter7/基本操作" />
-        <option value="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" />
-        <option value="$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/Chapter10/src/main/java/com/baidu/server/MyPostMethod.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/shuzuuu/ShuZuTest.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo02.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo03.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo04.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo05.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo06.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu01.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu02.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/Static_test.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/demo01.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Student.java" />
-        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demon00.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo01.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Static_test.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Myclass.java" />
@@ -288,6 +195,24 @@
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Usb.java" />
         <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/mouse.java" />
         <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/ArraryTest.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/scanner_test/Api_scanner.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Test_javac1.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm333.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/maopao.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/NNbiao.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nmhttpclient.java" />
+        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nm.java" />
+        <option value="$PROJECT_DIR$/LX-java/pom.xml" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/jiujiu.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/maoppp.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nn.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu111.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demon00.java" />
+        <option value="$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/kggg.java" />
       </list>
     </option>
   </component>
@@ -298,11 +223,6 @@
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -311,15 +231,21 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="828" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1tL6LENQ6MAmV7s9OWnnRRSa9Yq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,25 +256,115 @@
             <path>
               <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
               <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
               <item name="HHXX" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
               <item name="HHXX" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter12" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
@@ -403,24 +419,40 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Api_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="NNMM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HHXX" type="462c0819:PsiDirectoryNode" />
+              <item name="LX-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Api_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="String_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583647874123" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590722314863" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -430,21 +462,35 @@
       <recent name="Api_Test.scanner_test" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.arraylistTset">
-    <configuration name="arraylistTset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Api_Test.Arrary.arraylistTset" />
+  <component name="RunManager" selected="Application.demo02">
+    <configuration name="ExcepTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api_Test.ExcepTest.ExcepTest" />
+      <module name="LX-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Api_Test.ExcepTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api_Test.Filedemo.FileDemo" />
+      <module name="LX-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Api_Test.Filedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iphone5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api_Test.Arrary.Iphone5" />
       <module name="LX-java" />
       <extension name="coverage">
         <pattern>
@@ -456,12 +502,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="yyyy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.demo.yyyy" />
-      <module name="Chapter8" />
+    <configuration name="demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api_Test.math.demo02" />
+      <module name="LX-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclient.demo.*" />
+          <option name="PATTERN" value="Api_Test.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -469,69 +515,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MycookiesForGet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
+    <configuration name="kggg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Api_Test.NNMM.kggg" />
+      <module name="LX-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="PATTERN" value="Api_Test.NNMM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MycookiesForGet" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MycookiesForGet.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MycookiesForGet" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MycookiesForGet.test3" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MycookiesForGet" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arraylistTset" />
-        <item itemvalue="TestNG.MycookiesForGet.test1" />
-        <item itemvalue="TestNG.MycookiesForGet.test3" />
-        <item itemvalue="TestNG.MycookiesForGet" />
-        <item itemvalue="Application.yyyy" />
+        <item itemvalue="Application.demo02" />
+        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="Application.kggg" />
+        <item itemvalue="Application.ExcepTest" />
+        <item itemvalue="Application.Iphone5" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -547,14 +554,18 @@
       <workItem from="1580455558738" duration="1000" />
       <workItem from="1580459558868" duration="572000" />
       <workItem from="1581303238706" duration="1319000" />
-      <workItem from="1582447075162" duration="4003000" />
+      <workItem from="1582447075162" duration="32435000" />
+      <workItem from="1590634040323" duration="556000" />
+      <workItem from="1622535968795" duration="1177000" />
+      <workItem from="1622537535271" duration="35816000" />
+      <workItem from="1625847110256" duration="83000" />
+      <workItem from="1625847225358" duration="596000" />
+      <workItem from="1625848040809" duration="46000" />
+      <workItem from="1625848110647" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_wangshiyu_git11_HHXX_Chapter5_src_main_resources_Duoxiancheng_xml - 2019.12.13 at 11h 48m 48s.xml">
-      <configuration name="/Users/wangshiyu/git11/HHXX/Chapter5/src/main/resources/Duoxiancheng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="yyyy_test01 - 2019.12.16 at 10h 47m 31s.xml">
       <configuration name="yyyy.test01" configurationId="TestNG" />
     </history-entry>
@@ -567,9 +578,27 @@
     <history-entry file="MycookiesForGet_test1 - 2020.03.06 at 11h 51m 27s.xml">
       <configuration name="MycookiesForGet.test1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="yyyy_test01 - 2020.03.15 at 19h 33m 18s.xml">
+      <configuration name="yyyy.test01" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="yyyy_test01 - 2020.03.15 at 19h 45m 48s.xml">
+      <configuration name="yyyy.test01" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="yyyy_test01 - 2020.03.16 at 16h 37m 29s.xml">
+      <configuration name="yyyy.test01" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="nn - 2020.03.16 at 16h 45m 21s.xml">
+      <configuration name="nn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="nn - 2020.03.16 at 16h 48m 41s.xml">
+      <configuration name="nn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="nn - 2020.03.16 at 16h 49m 50s.xml">
+      <configuration name="nn" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66311000" />
+    <option name="totallyTimeSpent" value="95299000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,9 +611,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23962805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -594,7 +622,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25180724" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1746988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -655,320 +683,37 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo04.java">
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraymethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo05.java">
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/tm222.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="630">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demon00.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Static_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3465">
-          <caret line="271" column="15" lean-forward="true" selection-start-line="271" selection-start-column="15" selection-end-line="271" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arraylistjibenleixing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/xuhuan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/math/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/math/demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/Myclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/persion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/staticdaimakuai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Static_test/demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/fuzi.java">
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/org/apache/http/client/HttpClient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/fu1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#0#1627#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/zi1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Assistant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/demo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/Usb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/mouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/extend/demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/com/baidu/server/MyPostMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/com/baidu/server/MyGetMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/course/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/course/controller/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apache/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/Lss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apache/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="229" column="22" selection-start-line="229" selection-start-column="22" selection-end-line="229" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -981,60 +726,340 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/cookies/MycookiesForGet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        <state relative-caret-position="-1001">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extent/demo/ExtentTestNGIReporterListenerOld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-404">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="90">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/HttpUtils.java">
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nmhttpclient.java" />
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/HttpResponse.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="330">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#672#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arrayfori.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrays/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrays/demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java">
+    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/Lss.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/arraylistTset.java">
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/client/CloseableHttpClient.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="838">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/org/apache/http/impl/client/CloseableHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/org/apache/http/impl/client/HttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apache/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar!/org/apache/commons/httpclient/HttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/impl/client/CloseableHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#4474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/impl/client/HttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#976#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apache/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/impl/client/HttpClientBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nm.java" />
+    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter8/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="128" selection-start-line="14" selection-start-column="7" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="41" lean-forward="true" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/yyyy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/nn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Test_javac1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/xiaotimu111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/timu01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demon00.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/String_test/demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/jiujiu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/kggg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/NNbiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/baidu/course/testng/groups/groups1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/NNMM/maoppp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/course/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11/src/main/java/com/course/controller/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="30" selection-start-line="26" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/maopao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LX-java/src/main/java/Api_Test/Arrary/Arraylistjibenleixing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/baidu/course/testng/DependTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>

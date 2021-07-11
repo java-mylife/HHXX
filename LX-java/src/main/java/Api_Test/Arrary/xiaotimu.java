@@ -22,7 +22,7 @@ public class xiaotimu {
     public static void main(String[] args) {
 
 
-        ArrayList<Integer> list  = new ArrayList<>();
+        ArrayList<Integer> list  = new ArrayList<Integer>();
         Random r = new Random();
         for (int i = 0; i < 6; i++) {
             int num = r.nextInt(33)+1;
